@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a high-school student focusing on backend developing and Cybersecurity.
+
+
 <!--
 **ljw097/ljw097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
