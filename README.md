@@ -38,7 +38,7 @@ now     = "web hacking, reversing"
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+[![ljw097's github activity graph](https://activity-graph.herokuapp.com/graph?username=ljw097)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br><br>
 
