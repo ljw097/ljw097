@@ -36,11 +36,12 @@ now     = "web hacking, reversing"
 
 <br>
 
-<code>~/security/ctf</code>
+<code>~/teams</code>
 
 | Date | CTF | Team | Rank |
 |:--|:--|:--|:--|
 | 2025.04 | CCE 2025 | Team Styx | - |
+| 2026.04~ | - | BADA | - |
 
 <br><br>
 
