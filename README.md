@@ -20,6 +20,33 @@ now     = "web hacking, reversing"
 
 <img src="https://skillicons.dev/icons?i=python,c,javascript,linux,docker,git&perline=10&theme=dark" />
 
+<code>~/security/cve</code>
+
+| ID | Target | Type | Severity |
+|:--|:--|:--|:--:|
+
+<br>
+
+<code>~/security/reports</code>
+
+| Date | Program | Target | Type | Status |
+|:--|:--|:--|:--|:--|
+| 2026.10 | Bugil Academy | 온라인 자습관리 시스템 | Multiple | Finished |
+
+<br>
+
+<code>~/security/ctf</code>
+
+| Date | CTF | Team | Rank |
+|:--|:--|:--|:--|
+| 2025.04 | CCE 2025 | Team Styx | - |
+
+<br><br>
+
+<code>~/projects</code>
+
+<br><br>
+
 <br><br>
 
 <!-- 프로젝트 카드: repo= 뒤에 저장소 이름만 바꾸면 자동으로 카드가 만들어져요 -->
@@ -38,7 +65,7 @@ now     = "web hacking, reversing"
 
 <br><br>
 
-[![ljw097's github activity graph](https://activity-graph.herokuapp.com/graph?username=ljw097)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
 
 <br><br>
 
