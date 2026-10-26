@@ -6,7 +6,7 @@ I am a high-school student focusing on Backend Developing and Cybersecurity.
   <summary>What I am doing now:</summary>
 
   Currently running:
-  - First Mind["https://hack.work.gd"]: A educational site for cybersecurity and basics. 
+  - First Mind[https://hack.work.gd]: A educational site for cybersecurity and basics. 
 </details>
 <!--
 **ljw097/ljw097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
