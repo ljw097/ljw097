@@ -18,7 +18,7 @@ now     = "web hacking, reversing"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,spring,mysql,redis,linux,docker,git,aws&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,javascript,linux,docker,git&perline=10&theme=dark" />
 
 <br><br>
 
