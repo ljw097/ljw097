@@ -18,7 +18,7 @@ now     = "web hacking, reversing"
 
 <div align="left">
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,c,javascript,linux,docker,git&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,python,c,nodejs,nginx,javascript,linux,docker,git&perline=10&theme=dark" />
 </div>
 <br><br>
 <code>~/security/cve</code>
