@@ -61,9 +61,8 @@ now     = "web hacking, reversing"
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljw097&repo=smallnn&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
 <a href="https://github.com/ljw097/asset_manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljw097&repo=asset_manager&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ljw097&repo=AI_pubdata_3&theme=tokyonight&hide_border=true&border_radius=10" />
 </a>
-
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
