@@ -26,7 +26,7 @@ now     = "web hacking, reversing"
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut-vertical&theme=nord)
 <br><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" /> !-->
 </div>
 <br><br>
 <code>~/security/cve</code>
