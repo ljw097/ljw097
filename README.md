@@ -21,10 +21,10 @@ now     = "web hacking, reversing"
 <br>
 <img src="https://skillicons.dev/icons?i=kali,python,c,nodejs,nginx,javascript,linux,docker,git&perline=10&theme=dark" />
 </div>
-<br><br>
+<br>
 <div align="center">
     
-<br><br>
+<br>
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut&theme=nord)
 <br><br>
@@ -57,7 +57,7 @@ now     = "web hacking, reversing"
 | 2025.04 | CCE 2025 | Team Styx | - |
 | 2026.04~ | - | BADA | - |
 
-<br><br>
+<br>
 
 <code>~/projects</code>
 | Date | Name | Language | Objectives |
