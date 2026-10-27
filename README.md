@@ -63,8 +63,8 @@ now     = "web hacking, reversing"
 
 <br><br>
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed)](https://github.com/anuraghazra/type-trident)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat&theme=nord)](https://github.com/anuraghazra/type-trident)
 <!-- 프로젝트 카드: repo= 뒤에 저장소 이름만 바꾸면 자동으로 카드가 만들어져요 -->
 <br><br>
 
