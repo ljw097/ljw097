@@ -51,16 +51,16 @@ now     = "web hacking, reversing"
 
 <br><br>
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw098&repo=relic)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic)](https://github.com/anuraghazra/type-trident)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat)](https://github.com/anuraghazra/type-trident)
 <!-- 프로젝트 카드: repo= 뒤에 저장소 이름만 바꾸면 자동으로 카드가 만들어져요 -->
 <br><br>
-
+<div align="center"
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=compact&theme=nord)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut-vertical&theme=nord)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
-
+</div>
 <br><br>
 
 <a href="mailto:njbsandrewlee@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
