@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&height=60&lines=Jiwoo+Lee;Security+%2B+Backend;Breaking+things+to+build+them+better;Cybersecurity+and+pentesting" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&height=60&lines=Jiwoo+Lee;Security+%2B+Backend;Cybersecurity+and+pentesting" />
 
 </div>
 
