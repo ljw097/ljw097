@@ -22,7 +22,10 @@ now     = "web hacking, reversing"
 <img src="https://skillicons.dev/icons?i=kali,python,c,nodejs,nginx,javascript,linux,docker,git&perline=10&theme=dark" />
 </div>
 <br><br>
-  <div align="center"
+  <div align="center">
+    
+<br><br>
+![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097)
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut-vertical&theme=nord)
 <br><br>
@@ -59,8 +62,6 @@ now     = "web hacking, reversing"
 
 <code>~/projects</code>
 
-<br><br>
-![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097)
 <br><br>
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic)](https://github.com/anuraghazra/type-trident)
