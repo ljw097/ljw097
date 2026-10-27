@@ -22,12 +22,11 @@ now     = "web hacking, reversing"
 <img src="https://skillicons.dev/icons?i=kali,python,c,nodejs,nginx,javascript,linux,docker,git&perline=10&theme=dark" />
 </div>
 <br><br>
-  <div align="center">
+<div align="center">
     
 <br><br>
-![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097)
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut-vertical&theme=nord)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut&theme=nord)
 <br><br>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" /> !-->
 </div>
