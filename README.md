@@ -50,6 +50,8 @@ now     = "web hacking, reversing"
 <code>~/projects</code>
 
 <br><br>
+![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097)
+<br><br>
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic)](https://github.com/anuraghazra/type-trident)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat)](https://github.com/anuraghazra/type-trident)
@@ -58,7 +60,7 @@ now     = "web hacking, reversing"
 <div align="center"
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut-vertical&theme=nord)
-
+<br><br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
 </div>
 <br><br>
