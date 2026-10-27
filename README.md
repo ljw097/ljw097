@@ -26,6 +26,7 @@ now     = "web hacking, reversing"
 | ID | Target | Type | Severity |
 |:--|:--|:--|:--:|
 |`GHSA-cc4m-vc9p-jc3r`| devngho/kt_kisopenapi | Improper Input Validation | Medium |
+| ??? | maybe more.. | - | - |
 
 <br>
 
