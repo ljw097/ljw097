@@ -40,8 +40,6 @@ now     = "web hacking, reversing"
 
 <br>
 
-
-
 <code>~/security/reports</code>
 
 | Date | Program | Target | Type | Status | related CVE |
@@ -65,12 +63,13 @@ now     = "web hacking, reversing"
 | Date | Name | Language | Objectives |
 |:--|:--|:--|:--|
 | 2025.10 ~ | umchatting | `javascript` | A chatting app backend |
-| 2026.10~ | relic | `python`  | A pwnable/reversing discompile/disassembler |
+| 2026.10~ | relic | `python` | A pwnable/reversing discompile/disassembler |
 
 <br>
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)<br>
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat&theme=nord)](https://github.com/anuraghazra/type-trident)
-<!-- 프로젝트 카드: repo= 뒤에 저장소 이름만 바꾸면 자동으로 카드가 만들어져요 -->
+
 <br>
 <a href="mailto:njbsandrewlee@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 <a href="https://ljw097.tistory.com"><img src="https://img.shields.io/badge/Blog-1a1b27?style=for-the-badge&logo=hashnode&logoColor=7AA2F7" /></a>
