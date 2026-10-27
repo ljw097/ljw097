@@ -16,7 +16,7 @@ focus   = ["Cyberecurity", "Backend"]
 now     = "web hacking, reversing"
 ```
 
-<div align="left">
+<div align="center">
 <div align="center">
 <img src="https://skillicons.dev/icons?i=kali,python,c,nodejs,nginx,javascript,linux,docker,git&perline=10&theme=dark" />
 </div>
