@@ -65,11 +65,13 @@ now     = "web hacking, reversing"
 |:--|:--|:--|:--|
 | 2025.10 ~ | umchatting | `javascript` | A chatting app backend |
 | 2026.10~ | relic | `python` | A pwnable/reversing discompile/disassembler |
+| 2026.11~ | REMNANT | `go` | An automated vulnerability research system |
 
 <br>
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat&theme=nord)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/anuraghazra/type-trident)
 
 <br>
 <a href="mailto:njbsandrewlee@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
