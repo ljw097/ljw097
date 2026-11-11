@@ -29,6 +29,11 @@ now     = "web hacking, reversing"
 ![ljw097's GitHub stats](https://github-stats-extended.vercel.app/api?username=ljw097&show_icons=true&theme=nord)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut&theme=nord)
 <br><br>
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/anuraghazra/type-trident)
+
+<br>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" /> !-->
 </div>
 <br><br>
@@ -87,9 +92,6 @@ now     = "web hacking, reversing"
 | 2026.9~10 | Bugil Academy | 온라인 자습관리 시스템 | Multiple | Finished | private |
 | 2026.9~10 | *ngho.dev/ | @devngho | Multiple | In progress | private |
 | 2026.10 | kt_kisopenapi | @devngho | CWE-20/248 | Finished | `GHSA-cc4m-vc9p-jc3r` |
-
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/anuraghazra/type-trident)
 
 <br>
 
