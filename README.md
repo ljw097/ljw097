@@ -35,10 +35,42 @@ now     = "web hacking, reversing"
 
 <div align="left">
 
-### Security
+### Actions
 
 </div>
 
+<code>~/affilation</code>
+
+| Name | Date | Accomplishments |
+|:--|:--|:--:|
+| Najeong Middle School | 2022.03 ~ 2025.12 | Team STYX |
+| Bugil Academy | 2026.02 ~ 2029.02 | BADA |
+
+
+<code>~/teams</code>
+
+| Date | Contests | Team | Rank |
+|:--|:--|:--:|:--:|
+| 2025.04 ~ 2025.08 | CCE 2025 | Team Styx | Team Leader |
+| 2026.04 ~ 2027.02 | - | BADA | Member | 
+| 2027.02 ~ 2028.02(est) | CCE 2027(est) | BADA | Member |
+
+<br>
+
+<code>~/projects</code>
+| Date | Name | Language | Objectives | Status | 
+|:--|:--:|:--:|:--|:--:|
+| 2025.04 ~ 2025.08 | asset_manager | `javascript` | A ejs/express based asset managing website | Done |
+| 2025.10 ~ | umchatting | `javascript` | A chatting app backend | postponed |
+| 2026.10~ | relic | `python` | A pwnable/reversing discompile/disassembler | in progress |
+| 2026.11~ | REMNANT | `go` | An automated vulnerability research system | in progress |
+
+<br>
+<div align="left">
+
+### Security
+
+</div>
 <code>~/security/cve</code>
 
 | ID | Target | Type | Severity |
@@ -56,37 +88,11 @@ now     = "web hacking, reversing"
 | 2026.9~10 | *ngho.dev/ | @devngho | Multiple | In progress | private |
 | 2026.10 | kt_kisopenapi | @devngho | CWE-20/248 | Finished | `GHSA-cc4m-vc9p-jc3r` |
 
-<br>
-
-<div align="left">
-
-### Actions
-
-</div>
-
-<code>~/teams</code>
-
-| Date | CTF | Team | Rank |
-|:--|:--|:--|:--|
-| 2025.04 | CCE 2025 | Team Styx | - |
-| 2026.04~ | - | BADA | - |
-
-<br>
-
-<code>~/projects</code>
-| Date | Name | Language | Objectives |
-|:--|:--|:--|:--|
-| 2025.10 ~ | umchatting | `javascript` | A chatting app backend |
-| 2026.10~ | relic | `python` | A pwnable/reversing discompile/disassembler |
-| 2026.11~ | REMNANT | `go` | An automated vulnerability research system |
-
-<br>
-
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=umchatting&repo=chat&theme=nord)](https://github.com/anuraghazra/type-trident)
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/anuraghazra/type-trident)
 
 <br>
+
 <a href="mailto:njbsandrewlee@gmail.com"><img src="https://img.shields.io/badge/Mail-1a1b27?style=for-the-badge&logo=gmail&logoColor=7AA2F7" /></a>
 <a href="https://ljw097.tistory.com"><img src="https://img.shields.io/badge/Blog-1a1b27?style=for-the-badge&logo=hashnode&logoColor=7AA2F7" /></a>
 </div>
