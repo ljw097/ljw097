@@ -32,6 +32,13 @@ now     = "web hacking, reversing"
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" /> !-->
 </div>
 <br><br>
+
+<div align="left">
+
+### Security
+
+</div>
+
 <code>~/security/cve</code>
 
 | ID | Target | Type | Severity |
@@ -50,6 +57,12 @@ now     = "web hacking, reversing"
 | 2026.10 | kt_kisopenapi | @devngho | CWE-20/248 | Finished | `GHSA-cc4m-vc9p-jc3r` |
 
 <br>
+
+<div align="left">
+
+### Actions
+
+</div>
 
 <code>~/teams</code>
 
