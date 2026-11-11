@@ -30,8 +30,8 @@ now     = "web hacking, reversing"
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ljw097&layout=donut&theme=nord)
 <br><br>
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/anuraghazra/type-trident)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/anuraghazra/type-trident)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=relic&show=prs_authored,prs_commented,prs_reviewed&theme=nord)](https://github.com/ljw097/relic)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=ljw097&repo=REMNANT&theme=nord)](https://github.com/ljw097/REMNANT)
 
 <br>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ljw097&theme=tokyo-night&hide_border=true&radius=10" width="100%" /> !-->
